@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Build Portfolio Website",
+    "description": "Create a modern portfolio using Next.js and HeroUI.",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "title": "Design Dashboard UI",
+    "description": "Create responsive dashboard components with HeroUI.",
+    "status": "Completed",
+    "priority": "Medium",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "id": 3,
+    "title": "Setup MongoDB Database",
+    "description": "Connect MongoDB with backend API routes.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-05-25"
+  },
+  {
+    "id": 4,
+    "title": "Add Authentication",
+    "description": "Implement login and signup functionality.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-05-28"
+  },
+  {
+    "id": 5,
+    "title": "Optimize Website Performance",
+    "description": "Improve loading speed and image optimization.",
+    "status": "Completed",
+    "priority": "Low",
+    "dueDate": "2026-05-15"
+  }
+]
