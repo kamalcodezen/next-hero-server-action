@@ -15,6 +15,9 @@ const Navbar = () => {
           <li>
             <Link href="/tasks">Tasks</Link>
           </li>
+          {/* <li>
+            <Link href="/tasks/newtasks">New Tasks</Link>
+          </li> */}
         </ul>
         <div>
           <ThemeSwitch />
