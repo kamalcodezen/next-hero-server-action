@@ -10,10 +10,10 @@ const Navbar = () => {
         </div>
         <ul className="flex items-center gap-4">
           <li>
-            <Link href="#">Features</Link>
+            <Link href="/">Home</Link>
           </li>
           <li>
-            <Link href="#">Pricing</Link>
+            <Link href="/tasks">Tasks</Link>
           </li>
         </ul>
 
