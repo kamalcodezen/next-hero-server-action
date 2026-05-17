@@ -16,8 +16,9 @@ const Navbar = () => {
             <Link href="/tasks">Tasks</Link>
           </li>
         </ul>
-
-        <ThemeSwitch />
+        <div>
+          <ThemeSwitch />
+        </div>
       </header>
     </nav>
   );
